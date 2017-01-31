@@ -31,4 +31,4 @@ _testmain.go
 *.out
 
 # Se ignora el ejecutable
-ApiRestGolang
+main
